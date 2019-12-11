@@ -8,4 +8,7 @@ The file 'Demo of DopplerRadar Module' gives a quick demonstration of some of th
 
 It is a Jupyter Notebook, so it is mainly for illustration purposes. 
 
-#How to Use
+
+# How To Use
+
+To use you need to import <<doppler>> into your python script and then use the methods built within the <<dopler>> module. 
