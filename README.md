@@ -11,6 +11,6 @@ It is a Jupyter Notebook, so it is mainly for illustration purposes.
 
 # How To Use
 
-To use you need to import >>doppler>> into your python script and then use the methods built within the >>doppler>> module, such as >>DopplerRadar>>, >>DopplerJoyPlot>> etc. 
+To use you need to import 'doppler' into your python script and then use the methods built within the 'doppler' module, such as DopplerRadar, DopplerJoyPlot etc. 
 
 
