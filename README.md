@@ -15,6 +15,8 @@ To use you need to import 'doppler' into your python script and then use the met
 
 Example 
 
->>from doppler import DopplerJoyPlot, DopplerRadar
+```python
+from doppler import DopplerJoyPlot, DopplerRadar
+```
 
 
